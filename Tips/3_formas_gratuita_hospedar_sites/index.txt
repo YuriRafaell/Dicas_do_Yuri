@@ -1,0 +1,10 @@
+1. Netlify 
+    É uma ótima plataforma pra você hospedar os seus sites gratuitamente, e ela, ainda por cima,
+    tem uma ótima integração com o GitHub e projetos React.
+2. Vercel
+    A vercel também é ótima, assim como a anterior. A grande vantagem dela é que ela possui uma
+    integração excelente com aplicações feitas com Next.js.
+3. Amazon S3
+    Você consegue, perfeitamente, usar o S3 - um dos serviços mais populares da AWS - para
+    hospedar seus sites estáticos (feitos com HTML, CSS e JavaScript). E o grande ponto positivo
+    dele é a fácil integração com outros serviços da Amazon, como CloudFront.
