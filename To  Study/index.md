@@ -1,15 +1,34 @@
 # Cursos de programção
-> Curso de C# (Curso que ainda não realizei, nada a comentar):
-https://www.youtube.com/watch?v=PKMm-cHe56g 
+<div>
+  <details>
+    <summary>Curso de C#</summary>
+    <p> https://www.youtube.com/watch?v=PKMm-cHe56g </p>
+  </details>
+</div>
 
->   Curso variados de programação (Ainda não realizei, nada a comentar): 
-https://github.com/Coding-in-community/materiais 
+<div>
+  <details>
+    <summary>Curso variados de programação</summary>
+    <p>https://github.com/Coding-in-community/materiais </p>
+  </details>
+</div>
 
-> Curso de Python (Ainda não realizei, nada a comentar):
-https://github.com/morgannadev/estudandopython
+<div>
+  <details>
+    <summary>Curso de Python </summary>
+    <p>https://github.com/morgannadev/estudandopython</p>
+  </details>
+</div>
 
-> Curso de JavaScript do Zero (Ainda não realizei, nada a comentar):
-https://www.betrybe.com/curso-de-programacao-javascript-do-zero?utm_campaign=MKT_JSdoZero&utm_medium=email&_hsmi=259747428&_hsenc=p2ANqtz-9WbuZLjMxjc1EyFM-R5LK3KzJKOx_SrptVrQhqRWAqvU9WxVZM4P4ilLnnOtU1rI_e3vZWviAghMJ3vWZAq495CztsAw&utm_content=259747428&utm_source=hs_email 
+
+<div>
+  <details>
+    <summary>Curso de JavaScript do Zero</summary>
+    <p>https://www.betrybe.com/curso-de-programacao-javascript-do-zero?utm_campaign=MKT_JSdoZero&utm_medium=email&_hsmi=259747428&_hsenc=p2ANqtz-9WbuZLjMxjc1EyFM-R5LK3KzJKOx_SrptVrQhqRWAqvU9WxVZM4P4ilLnnOtU1rI_e3vZWviAghMJ3vWZAq495CztsAw&utm_content=259747428&utm_source=hs_email </p>
+  </details>
+</div>
+
+<p href="https://github.com/morgannadev/estudandopython">Curso python</p>
 
 > Curso de MySQL Querys Básico (Não assistido ainda): 
 https://www.youtube.com/playlist?list=PL_Ts805tCxIbTeTl12j6QEeldtipT-qPN 
