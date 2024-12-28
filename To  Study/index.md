@@ -56,6 +56,64 @@
   </details>
 </div>
 
+# Ideias de projetos
+<div>
+  <details>
+    <summary>API de ideias</summary>
+    <p> https://github.com/octaroxas/appIdeias/tree/master/   </p>
+  </details>
+</div>
+
+<div>
+  <details>
+    <summary>Projeto para fazer em JS</summary>
+    <p> https://github.com/mtdvio/every-programmer-should-know   </p>
+  </details>
+</div>
+
+# Programar em conjunto
+<div>
+  <details>
+    <summary>CODEPEN</summary>
+    <p> https://codepen.io/   </p>
+  </details>
+</div>
+
+<div>
+  <details>
+    <summary>Code Share</summary>
+    <p> https://codeshare.io/  </p>
+  </details>
+</div>
+
+<div>
+  <details>
+    <summary>Onelang</summary>
+    <p> https://ide.onelang.io/  </p>
+  </details>
+</div>
+
+<div>
+  <details>
+    <summary>Learn X in Y minutes</summary>
+    <p> https://learnxinyminutes.com/  </p>
+  </details>
+</div>
+
+<div>
+  <details>
+    <summary>Over API</summary>
+    <p> https://overapi.com/  </p>
+  </details>
+</div>
+
+<div>
+  <details>
+    <summary>Carbon</summary>
+    <p> https://carbon.now.sh/  </p>
+  </details>
+</div>
+
 # Recomendações p/tempo livre em vez de netflix ou besteira
 <div>
   <details>
@@ -162,5 +220,26 @@
     <p>https://leetcode.com/</p>
     <p>https://www.interviewbit.com/</p> 
     <p>https://www.hackerrank.com/</p>
+  </details>
+</div>
+
+<div>
+  <details>
+    <summary>Big O Notation </summary>
+    <p> https://www.youtube.com/watch?v=Mo4vesaut8g </p>
+  </details>
+</div>
+
+<div>
+  <details>
+    <summary>Why Most People FAIL to Learn Programming </summary>
+    <p> https://www.youtube.com/watch?v=T7aSI-E1fCE </p>
+  </details>
+</div>
+
+<div>
+  <details>
+    <summary>How To Think Like A Programmer </summary>
+    <p> https://www.youtube.com/watch?v=azcrPFhaY9k </p>
   </details>
 </div>
